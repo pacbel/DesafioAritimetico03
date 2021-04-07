@@ -1,0 +1,15 @@
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/obj/Debug/net5.0/DesafioAritmetico03.csprojAssemblyReference.cache
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/obj/Debug/net5.0/DesafioAritmetico03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/obj/Debug/net5.0/DesafioAritmetico03.AssemblyInfoInputs.cache
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/obj/Debug/net5.0/DesafioAritmetico03.AssemblyInfo.cs
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/obj/Debug/net5.0/DesafioAritmetico03.csproj.CoreCompileInputs.cache
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/bin/Debug/net5.0/DesafioAritmetico03.deps.json
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/bin/Debug/net5.0/DesafioAritmetico03.runtimeconfig.json
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/bin/Debug/net5.0/DesafioAritmetico03.runtimeconfig.dev.json
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/bin/Debug/net5.0/DesafioAritmetico03.dll
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/bin/Debug/net5.0/ref/DesafioAritmetico03.dll
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/bin/Debug/net5.0/DesafioAritmetico03.pdb
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/obj/Debug/net5.0/DesafioAritmetico03.dll
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/obj/Debug/net5.0/ref/DesafioAritmetico03.dll
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/obj/Debug/net5.0/DesafioAritmetico03.pdb
+/Users/pacheco/Documents/workspace/DesafioAritimetico03/obj/Debug/net5.0/DesafioAritmetico03.genruntimeconfig.cache
